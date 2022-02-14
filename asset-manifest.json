@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/valentijn/static/css/main.868b022f.css",
+    "main.js": "/valentijn/static/js/main.6149e8b7.js",
+    "static/media/kusje.jpg": "/valentijn/static/media/kusje.a057d02f6472ed9b010c.jpg",
+    "index.html": "/valentijn/index.html",
+    "main.868b022f.css.map": "/valentijn/static/css/main.868b022f.css.map",
+    "main.6149e8b7.js.map": "/valentijn/static/js/main.6149e8b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.868b022f.css",
+    "static/js/main.6149e8b7.js"
+  ]
+}
